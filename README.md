@@ -13,12 +13,16 @@ Research the following term and summarize your findings on it two to three sente
 
 * `higher-order function`
 
+Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions. Higher-order functions allow us to abstract over actions, not just values.
+
 Pretending we implemented the following methods, update this README with a description of each of the following and an example you've created:
 
-* `max`
-* `min`
-* `each`
-* `map`
+* `max` - Returns the number with the highest value
+* `min`- Returns the number with the lowest value
+* `each` - 
+* `map` - The map method creates a new array with the results of calling a provided function on every element in this array.
+
+
 * `filter`: [note](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 * `reduce`: [note](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 * `reject`: [note](http://underscorejs.org/#reject)
